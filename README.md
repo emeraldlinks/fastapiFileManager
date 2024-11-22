@@ -1,7 +1,7 @@
 # File Manager for FastAPI
 
 A plug-and-play solution for managing file uploads in FastAPI apps. It handles file uploads, saves them uniquely, and serves them via a static route automatically.
-
+https://github.com/emeraldlinks/fastapiFileManager
 ## Installation
 
 Install using pip:
@@ -47,3 +47,4 @@ async def download_file(filename: str):
 
 
 # file-manager
+# fastapiFileManager
